@@ -4,10 +4,10 @@
         {
             "name": "JLTG Overlay",
             "sources": [
-                "https://uploads.marens101.com/s/2023/07/place2023_jltg_15_2.png"
+                "https://github.com/joelbrendle/r-place-template-test/blob/main/babyturtle.png"
             ],
-            "x": 0,
-            "y": 0
+            "x": 339,
+            "y": 751
         }
     ],
     "whitelist": [
