@@ -1,0 +1,20 @@
+{
+    "contact": "Jet Lag: The Discord - https://discord.gg/jetlag", 
+    "templates": [
+        {
+            "name": "JLTG Overlay",
+            "sources": [
+                "https://uploads.marens101.com/s/2023/07/place2023_jltg_15_2.png"
+            ],
+            "x": 1252,
+            "y": 312
+        }
+    ],
+    "whitelist": [
+        {
+            "name": "Bluey",
+            "url": "https://raw.githubusercontent.com/jalenluorion/helpme/main/bluey.json"
+        }
+    ],
+    "blacklist": []
+}
